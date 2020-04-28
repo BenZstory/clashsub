@@ -5,3 +5,5 @@ DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,redditmedia.com
 DOMAIN-SUFFIX,redd.it
 DOMAIN-SUFFIX,feedburner.com
+DOMAIN,ajax.googleapis.com
+DOMAIN-SUFFIX,gcp.gvt2.com
